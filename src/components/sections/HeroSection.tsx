@@ -42,7 +42,7 @@ export function HeroSection() {
   };
 
   const stats = [
-    { icon: Users, value: 2000, suffix: "+", labelKey: "active_students_label" },
+    { icon: Users, value: 18000, suffix: "+", labelKey: "active_students_label" },
     { icon: Award, value: 90, suffix: "%", labelKey: "success_rate_label" },
     { icon: Target, value: 8, suffix: "+", labelKey: "years_experience_label" }, // Changed from Star to Target
     { icon: BookOpen, value: 7000, suffix: "+", labelKey: "courses_completed_label" }, // Changed from CheckCircle2 to BookOpen
