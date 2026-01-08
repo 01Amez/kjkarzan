@@ -403,8 +403,8 @@ const resources = {
       // Hero Section Extra
       scroll_to_explore: "Scroll to explore",
       success_rate_label: "Success Rate",
-      active_students_label: "Clients Account",
-      courses_completed_label: "Trained Clients",
+      active_students_label: "Trading Accounts",
+      courses_completed_label: "Trained Students",
       years_experience_label: "Years Experience",
       trading_platform_badge: "#1 Trading Education Platform",
       watch_demo: "Example video",
@@ -825,7 +825,7 @@ const resources = {
       // Hero Section Extra
       scroll_to_explore: "بۆ گەڕان سکڕۆڵ بکە",
       success_rate_label: "ڕێژەی سەرکەوتن",
-      active_students_label: "فێرخواز",
+      active_students_label: "هەژماری بازرگان",
       courses_completed_label: "فێرخوازی ڕاهێنراو ",
       years_experience_label: "ساڵ ئەزموون",
       trading_platform_badge: "یەکەمین پلاتفۆرمی بازرگان",
@@ -1247,7 +1247,7 @@ const resources = {
       // Hero Section Extra
       scroll_to_explore: "مرر للاستكشاف",
       success_rate_label: "نسبة النجاح",
-      active_students_label: "عملاء ",
+      active_students_label: "حسابات التداول ",
       courses_completed_label: "عملاء مُدرَّبون",
       years_experience_label: "سنوات خبرة",
       trading_platform_badge: "#1 منصة لتعليم التداول",
