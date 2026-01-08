@@ -22,7 +22,7 @@ const resources = {
         subtitle: "Karzan Jalal",
         description: "Empowering Traders to Build Wealth & Achieve Financial Freedom",
         tagline: "From Zero to Hero: Your Journey to Trading Success Starts Here",
-        credentials: "Trusted by 7000+ Clients Worldwide • 90% Success Rate • 8+ Years of Proven Results",
+        credentials: "Trusted by 18000+ Clients Worldwide • 90% Success Rate • 8+ Years of Proven Results",
         cta: {
           courses: "View Courses",
           learn: "Start Today",
@@ -444,7 +444,7 @@ const resources = {
         subtitle: "کارزان جەلال",
         description: "بەهێزکردنی بازرگانان بۆ بەدەستهێنانی سامان و بوونی ئازادی دارایی",
         tagline: "لە سفرەوە بۆ لووتکە: گەشتەکەت بۆ سەرکەوتنی بازرگانی لێرەوە دەست پێدەکات",
-        credentials: "متمانەپێکراو لەلایەن ٧٠٠٠+ فێرخوازەوە لە جیهاندا - ٩٠٪ ڕێژەی سەرکەوتن - ٨+ ساڵ ئەنجامی سەلمێنراو",
+        credentials: "متمانەپێکراو لەلایەن ١٨٠٠٠+ فێرخوازەوە لە جیهاندا - ٩٠٪ ڕێژەی سەرکەوتن - ٨+ ساڵ ئەنجامی سەلمێنراو",
         cta: {
           courses: "کۆرسەکان ببینە",
           learn: "ئەمڕۆ دەست پێ بکە",
@@ -866,7 +866,7 @@ const resources = {
         subtitle: "کارزان جلال",
         description: "تمكين المتداولين من بناء الثروة وتحقيق الحرية المالية",
         tagline: "من البداية إلى الاحتراف: رحلتك نحو النجاح في التداول تبدأ هنا",
-        credentials: "حاز على ثقة أكثر من ٧٠٠٠ متداول حول العالم • معدل نجاح ٩٠% • أكثر من ٥ سنوات من النتائج المثبتة",
+        credentials: "حاز على ثقة أكثر من ١٨٠٠٠ متداول حول العالم • معدل نجاح ٩٠% • أكثر من ٥ سنوات من النتائج المثبتة",
         cta: {
           courses: "تصفح الدورات",
           learn: "ابدأ الآن",
